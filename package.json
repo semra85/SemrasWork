@@ -1,0 +1,23 @@
+{
+  "name": "WBA2_SS17_Kickoff_Aufgabe",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/THK-DNS/Workshop1Semra.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/THK-DNS/Workshop1Semra/issues"
+  },
+  "homepage": "https://github.com/THK-DNS/Workshop1Semra#readme",
+  "dependencies": {
+    "chalk": "^1.1.3"
+  }
+}
